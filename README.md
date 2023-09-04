@@ -1,4 +1,13 @@
-### Hi there 👋
+# Olá, pessoa 👋
+🎲 Sou um designer com **perfil analítico, apaixonado por dados e especialista em projetos de educação** com mais de 15 anos de experiência produzindo e gerenciando a produção de recursos didáticos.
+
+🎒 Para minha transição para a área de dados, investi em minha educação por meio do **MBA em Business Intelligence & Analytics na FIAP**. Essa experiência aprofundou meus conhecimentos em analytics, estratégias e insights de negócio, visão data-driven, storytelling, estatística e data science, permitindo-me aplicar essas habilidades em projetos concretos e desafiadores.
+
+⚙️ Possuo **habilidades avançadas em tratamento e preparação de dados**, utilizando ferramentas como SQL, Power Query e Alteryx.
+
+🥋 Sou **especialista em desenvolver dashboards** com Power BI, Looker Studio e Excel, ajudando a transformar dados complexos em insights úteis para tomada de decisões.
+
+🖥️ <a href="https://sites.google.com/view/portfolio-gustavo-kitagawa/">Aqui, você pode conferir meu portfólio no Google Sites.</a>
 
 <!--
 **gustavokitagawa/gustavokitagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
